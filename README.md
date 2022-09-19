@@ -1,12 +1,13 @@
 # fastapi-basic
-create a basic test used fastapi to study
 
-how to start this test used fastapi
+### Create a basic test used fastapi to study
 
-execute this for install fastpapi.
+### How to start this test used fastapi
 
-pip install fastapi uvicorn
+### Execute this for install fastpapi.
 
-after installiation use this command for run and access to http://127.0.0.1:8000/docs.
+    pip install fastapi uvicorn
 
-uvicorn api:app --reload
+## After installiation use this command for run and access to http://127.0.0.1:8000/docs.
+
+    uvicorn api:app --reload
